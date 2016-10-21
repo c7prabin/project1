@@ -1,0 +1,57 @@
+p
+{
+	padding-left: 400px;
+	padding-top: 15px;
+        color:#269abc;
+        font-size: 50px;
+}
+ .container 
+{
+background-image: url('img/bannercopy.jpg');
+}
+a
+{
+    font-size: 12px;
+    padding-top: 20px;
+}
+.upper
+{
+    background-color: green;
+    color: green;
+}
+footer
+{
+	color: #fff;
+	background: #2C3E50 !important;
+	padding: 20px;
+}
+
+footer ul
+{
+	list-style: none;
+	float: right;
+}
+
+footer li
+{
+	display: inline-block;
+}
+
+footer a
+{
+	color: #999;
+	padding: 5px;
+}
+
+footer a:hover
+{
+	color: #fff;
+}
+form
+{
+background-color:#fff;
+}
+form label
+{
+	color: white;
+}

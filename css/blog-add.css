@@ -1,0 +1,138 @@
+p
+{
+	padding-left: 300px;
+	padding-top: 15px;
+}
+
+.main
+{
+    background-image: url("../img/2.jpg");
+    color:blue;
+    background-color:blueviolet; 
+}h1
+{
+	color: green;
+}
+
+nav .login
+{
+	float: right;
+	font-size: 14px;
+	color: red;
+	margin-right: 40px;
+	margin-left: 30px;
+	padding-top: 0px;
+}
+nav .sign
+{
+	float: right;
+	font-size: 14px;
+	color: #990033;
+	margin-right: 5px;
+	margin-left: 20px;
+	padding-top: 0px;
+}
+nav .home
+{
+font-size: 18px;	
+}
+nav .profile
+{
+font-size: 18px;	
+}
+nav .contact
+{
+font-size: 18px;	
+}nav .about
+{
+font-size: 18px;	
+}
+.main p
+{
+    padding-left: 500px;
+    color:violet;
+    font-size: 20px;
+    
+}
+footer
+{
+	color: #fff;
+	background: #2C3E50 !important;
+	padding: 20px;
+}
+
+footer ul
+{
+	list-style: none;
+	float: right;
+}
+
+footer li
+{
+	display: inline-block;
+}
+
+footer a
+{
+	color: #999;
+	padding: 5px;
+}
+
+footer a:hover
+{
+	color: #fff;
+}
+form
+{
+background-color:#fff;
+}
+form label
+{
+	color: white;
+}
+.allow .hrline
+{
+	border-top: 3px solid #b81311;
+	margin: 25px auto;
+}
+.hrline
+{
+	border-top:  solid black;
+	border-width: medium;
+	margin: 25px auto;
+}
+.allow
+{
+	text-align: center;
+	padding: 40px 0;
+	background: #fff;
+	overflow: hidden;
+}
+.allow .titletop
+{
+	font-size: 72px;
+	display: block;
+	line-height: 60px;
+}
+ .titletop
+{
+	font-size: 40px;
+	display: block;
+	line-height: 60px;
+}
+.allow .titlebottom
+{
+	font-size: 36px;
+}
+.allow .text
+{
+	color: #3f0606;
+	margin-bottom: 40px;
+}
+
+.allow .highlight
+{
+	font-weight: bold;
+	font-family: segoe print;
+	transform: rotate(-5deg);
+}

@@ -1,0 +1,16 @@
+h1
+{
+    color: white;
+    text-align:right;
+    padding-left: 50px;
+}
+ 
+ul
+{
+    list-style: none;
+   float:right;
+}
+li
+{
+    display: inline-block;
+}
